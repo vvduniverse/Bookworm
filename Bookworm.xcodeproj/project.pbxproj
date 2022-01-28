@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8493C2C127A2AFE700523541 /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8493C2C027A2AFE700523541 /* AddBookView.swift */; };
+		84A1AFBB27A3E7270014CDAC /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A1AFBA27A3E7270014CDAC /* RatingView.swift */; };
 		84A298C927A1720D00DA3F85 /* BookwormApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A298C827A1720D00DA3F85 /* BookwormApp.swift */; };
 		84A298CB27A1720D00DA3F85 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84A298CA27A1720D00DA3F85 /* ContentView.swift */; };
 		84A298CD27A1720F00DA3F85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84A298CC27A1720F00DA3F85 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		8493C2C027A2AFE700523541 /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
+		84A1AFBA27A3E7270014CDAC /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
 		84A298C527A1720D00DA3F85 /* Bookworm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Bookworm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84A298C827A1720D00DA3F85 /* BookwormApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookwormApp.swift; sourceTree = "<group>"; };
 		84A298CA27A1720D00DA3F85 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				84A298CA27A1720D00DA3F85 /* ContentView.swift */,
 				84A298D627A1723000DA3F85 /* Bookworm.xcdatamodeld */,
 				8493C2C027A2AFE700523541 /* AddBookView.swift */,
+				84A1AFBA27A3E7270014CDAC /* RatingView.swift */,
 				84A298D927A1723F00DA3F85 /* DataController.swift */,
 				84A298CC27A1720F00DA3F85 /* Assets.xcassets */,
 				84A298CE27A1720F00DA3F85 /* Preview Content */,
@@ -149,6 +152,7 @@
 				84A298CB27A1720D00DA3F85 /* ContentView.swift in Sources */,
 				84A298DA27A1723F00DA3F85 /* DataController.swift in Sources */,
 				84A298D827A1723000DA3F85 /* Bookworm.xcdatamodeld in Sources */,
+				84A1AFBB27A3E7270014CDAC /* RatingView.swift in Sources */,
 				84A298C927A1720D00DA3F85 /* BookwormApp.swift in Sources */,
 				8493C2C127A2AFE700523541 /* AddBookView.swift in Sources */,
 			);
