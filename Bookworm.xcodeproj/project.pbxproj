@@ -67,11 +67,11 @@
 				84A298CA27A1720D00DA3F85 /* ContentView.swift */,
 				84A298D627A1723000DA3F85 /* Bookworm.xcdatamodeld */,
 				8493C2C027A2AFE700523541 /* AddBookView.swift */,
+				84A1AFBE27A3F4EB0014CDAC /* DetailView.swift */,
 				84A1AFBC27A3EE180014CDAC /* EmojiRatingView.swift */,
 				84A1AFBA27A3E7270014CDAC /* RatingView.swift */,
 				84A298D927A1723F00DA3F85 /* DataController.swift */,
 				84A298CC27A1720F00DA3F85 /* Assets.xcassets */,
-				84A1AFBE27A3F4EB0014CDAC /* DetailView.swift */,
 				84A298CE27A1720F00DA3F85 /* Preview Content */,
 			);
 			path = Bookworm;
